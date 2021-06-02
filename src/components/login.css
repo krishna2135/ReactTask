@@ -1,0 +1,9 @@
+
+.formcontainer{
+    max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+ box-shadow: 5px 5px 4px 5px #888888;
+  margin-top: 100px;
+}
