@@ -62,7 +62,7 @@ import {
                 history.push("/profilepage"); 
             }
             else{
-                setError('Enter email valid and password')
+                setError('Enter valid email  and password')
             }
           })
         }
