@@ -74,7 +74,7 @@ import {
 	return (
         
 		<Container >
-			<Row className="mt-5 ">
+			<Row className="w-50 mx-auto shadow p-5 mt-5">
 				<Col>
 					<h1 className="text-info text-center">User Login</h1>
 					<hr />
